@@ -2,5 +2,5 @@
 <item>
     <version>0.9.1.0</version>
     <url>https://github.com/Sam-s-Games-And-Things/DesktopMeadowUpdate/blob/master/DesktopMeadow_0_9_1.exe?raw=true</url>
-    <mandatory mode="1">false</mandatory>
+    <mandatory>true</mandatory>
 </item>
